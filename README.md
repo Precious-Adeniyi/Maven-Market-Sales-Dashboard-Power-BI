@@ -31,7 +31,7 @@ Star schema with the following tables:
 
 ## Screenshots
 ### Dashboard
-Maven-Market Sales Dashboard
+![Dashboard](Maven_Market_Sales_Dashboard.png)
 
 ### Data Model
-Maven-Market Sales Data Model
+![Dashboard](Maven_Market_Sales_Data_Model.png)
